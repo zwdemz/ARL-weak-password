@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.gitattributes
+*.log
+.idea/*
+vulnerable.txt
+ip_port_list.txt
